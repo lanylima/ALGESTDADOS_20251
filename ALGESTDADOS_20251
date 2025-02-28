@@ -1,0 +1,70 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyM9R7V8XwgjzH2TPnhgz6Fj",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/lanylima/ALGESTDADOS_20251/blob/main/ALGESTDADOS_20251\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "K_aIqPRmaYzi",
+        "outputId": "3321dd8a-9936-49fe-fb5e-0ab3f1a44b75"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "3570\n"
+          ]
+        }
+      ],
+      "source": [
+        "num1=1930\n",
+        "num2= 1640\n",
+        "resultado= num1+num2\n",
+        "print(resultado)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "num1=int(input('Digite o primeiro número:'))\n",
+        "num2=int(input('Diugite o segundo número:'))\n",
+        "resultado=num1+num2\n",
+        "print(resultado)"
+      ],
+      "metadata": {
+        "id": "QiDKhbQ8cBxU"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
